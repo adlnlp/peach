@@ -29,8 +29,8 @@ The paper is accepted at IJCAI 2024. The detailed documentation with examples fo
 We visualised the global and local explanation tree for the text classification tasks. Here are some examples. For more details please refer to our paper.
 
 - Global example: 
-  <p align="center"><img src="figure/peach_global.png" width="600" /></p>
+  <p align="center"><img src="figure/peach_global.png" width="1000" /></p>
 - Local examples: 
-  <p align="center"><img src="figure/peach_local_business.png" width="600" /></p>
-  <p align="center"><img src="figure/peach_local_politics.png" width="600" /></p>
-  <p align="center"><img src="figure/peach_local_entertainment.png" width="600" /></p>
+  <p align="center"><img src="figure/peach_local_business.png" width="1000" /></p>
+  <p align="center"><img src="figure/peach_local_politics.png" width="1000" /></p>
+  <p align="center"><img src="figure/peach_local_entertainment.png" width="1000" /></p>
