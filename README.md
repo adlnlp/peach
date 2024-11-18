@@ -23,6 +23,15 @@ The paper is accepted at IJCAI 2024. The detailed documentation with examples fo
 }
 ```
 
+## Instruction
+Run the given ipynb files with the following order:
+1. Datasets
+2. Models
+3. Finetune_pretrained_models
+4. Cluster_feature
+5. CNN_Grouping
+6. DT_generation
+7. Tree_Information_Extraction
 
 ## Qualitative Examples
 
